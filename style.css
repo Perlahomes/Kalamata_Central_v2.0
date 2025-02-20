@@ -220,6 +220,7 @@ p {
     background-color: #0c0c0c; /* Darker green on hover */
     
 }
+
 .social-media {
     margin-top: 10px;
     display: flex;
@@ -241,4 +242,3 @@ p {
 .social-media a:nth-child(2) .social-icon:hover {
     color: #e4405f;  /* Change color on hover (red/pink for Instagram) */
 }
-
